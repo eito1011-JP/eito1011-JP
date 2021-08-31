@@ -1,5 +1,5 @@
-### Hi there 👋
-# I'm Eito Morohashi
+# Hi there 👋
+### I'm Eito 
   I learn ruby to be a web developer.
   
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=eito1011-JP&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/eito1011-JP/)
