@@ -1,4 +1,4 @@
-# I learn usually ruby to be a Web Developer.
+# I usually　 ruby to be a Web Developer.
   
 # Activily
   
