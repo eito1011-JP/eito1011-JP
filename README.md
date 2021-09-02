@@ -14,8 +14,5 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ruby to be a web developer
-- 💬 Ask me about 
 - 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
 -->
