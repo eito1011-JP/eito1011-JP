@@ -1,26 +1,19 @@
 # I usually learn ruby to be a Web Developer.
   
 # Activily
-  
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=eito1011-JP&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/eito1011-JP/)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ryuji-oda/posts.svg)](http://qiita.com/ryuji-oda) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryuji-oda/contributions.svg)](http://qiita.com/ryuji-oda) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ryuji-oda/followers.svg)](http://qiita.com/ryuji-oda)
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eito1011-JP&layout=compact&theme=tokyonight)](https://github.com/eito1011-JP/)
 
-<p>
-  <a href="https://twitter.com/SyodoB" target="_blank">
-    <img alt="Twitter: SyodoB" src="https://img.shields.io/twitter/follow/SyodoB.svg?style=social" />
-  </a>
-</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyujiOdaJP&show_icons=true&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eito1011-JPJP&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyujiOdaJP&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eito1011-JP&theme=cobalt" />
 </a>
 
-<a href="https://github.com/RyujiOdaJP" target="_blank">
-  <img src="https://grass-graph.moshimo.works/images/RyujiOdaJP.png?rotate=0">
+<a href="https://github.com/eito1011-JPJP" target="_blank">
+  <img src="https://grass-graph.moshimo.works/images/eito1011-JP.png?rotate=0">
 </a>
 
 テスト
