@@ -1,4 +1,4 @@
-# wantedlyのプロフィール
+# Wantedlyのプロフィール
 https://www.wantedly.com/id/eitomorohashi
   
 # Activily
