@@ -1,6 +1,3 @@
-# Wantedlyのプロフィール
-https://www.wantedly.com/id/eitomorohashi
-
 # ポートフォリオ（ReNote.）
 http://www.getrenote.click/users/sign_in
   
