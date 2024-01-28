@@ -1,4 +1,4 @@
-يوم لنا ويوما علين
+010010010010000001101100011010010110101101100101001000000111001101110101011100110110100001101001
 <!--[![My Qiita posts](https://qiita-badge.apiapi.app/s/eito1011/posts.svg)](http://qiita.com/eito1011) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/eito1011/contributions.svg)](http://qiita.com/eito1011) [![My Qiita followers](https://qiita-badge.apiapi.app/s/eito1011/followers.svg)](http://qiita.com/eito1011) -->
 
 <!-- リポジトリステータス -->
