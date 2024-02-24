@@ -6,7 +6,7 @@
 <!-- [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=eito1011-JP&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/) -->
 
 <!-- ソースコード統計 -->
-<!-- [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eito1011-JP&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/) -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eito1011-JP&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
 
 
 <!--
